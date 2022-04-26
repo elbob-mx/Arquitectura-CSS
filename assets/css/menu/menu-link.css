@@ -1,0 +1,38 @@
+.menu-link {
+    color: rgb(112, 112, 112);
+    margin-right: 2rem;
+    text-decoration: none;
+    text-transform: lowercase;
+    font-size: 1.3rem;
+    padding: 8px 15px 8px 15px;
+    font-weight: bold;
+}
+
+.menu-link.activo {
+    color: orangered;
+}
+
+.menu-link:hover {
+    color: black;
+    margin-right: 2rem;
+    text-decoration: none;
+    text-transform: lowercase;
+    font-size: 1.3rem;
+    padding: 8px 15px 8px 15px;
+    background-color: #ffa200;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+
+.menu-link:active {
+    color: black;
+    margin-right: 2rem;
+    text-decoration: none;
+    text-transform: lowercase;
+    font-size: 1.3rem;
+    padding: 8px 15px 8px 15px;
+    background-color: bisque;
+    border-radius: 10px;
+    font-weight: bold;
+}
