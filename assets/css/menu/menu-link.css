@@ -1,38 +1,38 @@
-.menu-link {
+.menu__link {
     color: rgb(112, 112, 112);
     margin-right: 2rem;
     text-decoration: none;
     text-transform: lowercase;
     font-size: 1.3rem;
-    padding: 0.8vh 0.8vw;
+    padding: 1vh 1vw;
     font-weight: bold;
 }
 
-.menu-link.activo {
-    color: orangered;
+.menu__link.activo {
+    color: #42210B;
 }
 
-.menu-link:hover {
-    color: black;
+.menu__link:hover {
+    color: snow;
     margin-right: 2rem;
     text-decoration: none;
     text-transform: lowercase;
     font-size: 1.3rem;
-    padding: 0.8vh 0.8vw;
-    background-color: #ffa200;
-    border-radius: 10px;
+    padding: 1vh 1vw;
+    background-color: #C1272D;
+    border-radius: 30px;
     font-weight: bold;
     
 }
 
-.menu-link:active {
-    color: black;
+.menu__link:active {
+    color: white;
     margin-right: 2rem;
     text-decoration: none;
     text-transform: lowercase;
     font-size: 1.3rem;
-    padding: 0.8vh 0.8vw;
-    background-color: #da8a00;
-    border-radius: 10px;
+    padding: 1vh 1vw;
+    background-color: #9b2125;
+    border-radius: 30px;
     font-weight: bold;
 }

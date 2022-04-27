@@ -1,9 +1,9 @@
-.menu-item {
+.menu__item {
     list-style: none;
     font-size: 1.3rem;
 }
 
-.menu-item .menu-link:last-child {
+.menu__item .menu__link:last-child {
     list-style: none;
     font-size: 1.3rem;
     margin: 20px;

@@ -1,6 +1,6 @@
 .cabecera {
     align-items: center;
-    background-color: #f9f9f9;
+    background-color: #b2ddb5;
     display: flex;
     justify-content: space-between;
     padding-left: 2rem;
@@ -9,6 +9,6 @@
     font-weight: 600;
 }
 
-.logo {
+/* .logo {
     height: 175px;
-}
+} */
