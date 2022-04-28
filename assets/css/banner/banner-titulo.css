@@ -1,15 +1,13 @@
 .banner__titulo {
     width: 100%;
     color: snow;
-    font-family: "Gochi Hand", cursive;
+    font-family: 'Kalam', cursive;
     font-weight: 700;
     font-size: 5rem;
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 60%;
     text-align: center;
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
     transform: translate(-50%, -50%);
-    /* background-color: rgba(255, 160, 122, 0.80) ;
-    padding: 3.5vh 2vw; */
 }
