@@ -1,0 +1,16 @@
+.persona__nombre {
+    margin: 1rem 0;
+    font-family: "Kalam", cursive;
+    font-size: 2rem;
+    color: #C1272D;
+    transition: 1s;
+}
+
+.persona__nombre:hover {
+    margin: 1rem 0;
+    font-family: "Kalam", cursive;
+    font-size: 2rem;
+    color: #C1272D;
+    transition: 0.5s;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
+}
