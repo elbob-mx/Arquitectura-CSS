@@ -1,5 +1,5 @@
 .banner__imagen {
+    background: url("../../img/banner.jpg") no-repeat center / cover;
     height: calc(100vh - 177px);
     width: 100%;
-    object-fit: cover;
   }

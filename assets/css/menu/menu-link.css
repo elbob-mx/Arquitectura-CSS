@@ -1,11 +1,11 @@
 .menu__link {
     color: rgb(112, 112, 112);
+    font-size: 1.3rem;
+    font-weight: bold;
     margin-right: 2rem;
+    padding: 1vh 1vw;
     text-decoration: none;
     text-transform: lowercase;
-    font-size: 1.3rem;
-    padding: 1vh 1vw;
-    font-weight: bold;
 }
 
 .menu__link.activo {
@@ -13,26 +13,26 @@
 }
 
 .menu__link:hover {
-    color: snow;
-    margin-right: 2rem;
-    text-decoration: none;
-    text-transform: lowercase;
-    font-size: 1.3rem;
-    padding: 1vh 1vw;
     background-color: #C1272D;
     border-radius: 30px;
+    color: snow;
+    font-size: 1.3rem;
     font-weight: bold;
+    margin-right: 2rem;
+    padding: 1vh 1vw;
+    text-decoration: none;
+    text-transform: lowercase;
     
 }
 
 .menu__link:active {
-    color: white;
-    margin-right: 2rem;
-    text-decoration: none;
-    text-transform: lowercase;
-    font-size: 1.3rem;
-    padding: 1vh 1vw;
     background-color: #9b2125;
     border-radius: 30px;
+    color: white;
+    font-size: 1.3rem;
     font-weight: bold;
+    margin-right: 2rem;
+    padding: 1vh 1vw;
+    text-decoration: none;
+    text-transform: lowercase;
 }

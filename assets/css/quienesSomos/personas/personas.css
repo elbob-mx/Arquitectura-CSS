@@ -5,6 +5,6 @@
 
 .personas {
     display: flex;
-    padding-top: 1rem;
+    padding-top: 2rem;
     justify-content: space-around;
 }

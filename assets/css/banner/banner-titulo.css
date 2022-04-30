@@ -1,13 +1,13 @@
 .banner__titulo {
-    width: 100%;
     color: snow;
     font-family: 'Kalam', cursive;
+    font-size: 7rem;
     font-weight: 700;
-    font-size: 5rem;
-    position: absolute;
     left: 50%;
-    top: 60%;
+    position: absolute;
     text-align: center;
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    top: 65%;
     transform: translate(-50%, -50%);
+    width: 100%;
 }

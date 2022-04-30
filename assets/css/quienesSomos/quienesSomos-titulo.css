@@ -1,22 +1,22 @@
 .quienes-somos__titulo {
+    color: #C1272D;
+    font-family: 'Kalam', cursive;
+    font-size: 3.1rem;
+    font-weight: 700;
     margin-bottom: 1rem;
     margin-top: 3rem;
-    font-family: 'Kalam', cursive;
-    font-weight: 700;
-    font-size: 3.1rem;
     text-align: center;
-    color: #C1272D;
     transition: 1s;
 }
 
 .quienes-somos__titulo:hover {
+    color: #C1272D;
+    font-family: 'Kalam', cursive;
+    font-size: 3.1rem;
+    font-weight: 700;
     margin-bottom: 1rem;
     margin-top: 3rem;
-    font-family: 'Kalam', cursive;
-    font-weight: 700;
-    font-size: 3.1rem;
     text-align: center;
-    color: #C1272D;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
     transition: 0.5s;
 }

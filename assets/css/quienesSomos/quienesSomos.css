@@ -1,8 +1,8 @@
 .quienes-somos {
     background-color: white;
-    margin-bottom: 1.5rem;
-    text-align: center;
+    color: dimgray;
     font-family: "Inter", sans-serif;
     font-weight: bold;
-    color: dimgray;
+    margin-bottom: 1.5rem;
+    text-align: center;
 }
