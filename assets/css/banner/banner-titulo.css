@@ -1,7 +1,6 @@
 .banner__titulo {
     color: snow;
-    font-family: 'Kalam', cursive;
-    font-size: 7rem;
+    font-family: 'Kalam', cursive;    
     font-weight: 700;
     left: 50%;
     position: absolute;
@@ -11,3 +10,15 @@
     transform: translate(-50%, -50%);
     width: 100%;
 }
+
+@media screen and (min-width: 0) {
+    .banner__titulo {
+        font-size: 3rem;
+    }
+  }
+
+  @media screen and (min-width: 768px) {
+    .banner__titulo {
+        font-size: 6rem;
+    }
+  }
