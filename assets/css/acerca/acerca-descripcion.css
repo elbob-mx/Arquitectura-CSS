@@ -1,7 +1,18 @@
 .acerca__descripcion {
-    text-align: center;
-    font-family: "Inter", sans-serif;
-    font-size: 1.2rem;
-    font-weight: normal;
     color: dimgray;
+    font-family: "Inter", sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+@media screen and (min-width: 0) {
+    .acerca__descripcion {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .acerca__descripcion {
+        font-size: 1.3rem;
+    }
 }

@@ -7,3 +7,23 @@
     text-align: right;
     text-transform: lowercase;
 }
+
+@media screen and (min-width: 0) {
+    .pie-pagina {
+        text-align: center;
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+    .pie-pagina  {
+        text-align: right;
+    }
+
+}
+
+@media screen and (min-width: 922px) {
+    .pie-pagina  {
+        text-align: right;
+    }
+}

@@ -14,3 +14,15 @@
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
     transition: 0.5s;
 }
+
+@media screen and (min-width: 0) {
+    .persona__nombre {
+        margin: 0.25rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .persona__nombre {
+        margin: 0.25rem;
+    }
+}

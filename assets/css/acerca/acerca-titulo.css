@@ -1,18 +1,19 @@
 .acerca__titulo {
-    text-align: center;
-    font-size: 3.1rem;
+    color: #C1272D;
     font-family: 'Kalam', cursive;
     font-weight: 700;
-    color: #C1272D;
-    transition: 1s;
+    text-align: center;
 }
 
-.acerca__titulo:hover {
-    text-align: center;
-    font-size: 3.1rem;
-    font-family: 'Kalam', cursive;
-    font-weight: 700;
-    color: #C1272D;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
-    transition: 0.5s;
+@media screen and (min-width: 0) {
+    .acerca__titulo {
+        font-size: 2.5rem;
+        padding: 0.5rem 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .acerca__titulo {
+        font-size: 3.1rem;
+    }
 }

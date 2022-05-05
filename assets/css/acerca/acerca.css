@@ -1,11 +1,12 @@
 .acerca {
-    text-align: center;
     padding: 2.5rem;
+    text-align: center;
 }
 
 @media screen and (min-width: 0) {
     .acerca{
         font-size: 3rem;
+        padding: 2rem 0.5rem;
     }
 }
 
