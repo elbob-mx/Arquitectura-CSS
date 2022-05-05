@@ -1,38 +1,37 @@
 .menu__link {
-    color: rgb(112, 112, 112);
-    font-size: 1.3rem;
-    font-weight: bold;
-    margin-right: 2rem;
-    padding: 1vh 1vw;
-    text-decoration: none;
-    text-transform: lowercase;
+  color: rgb(112, 112, 112);
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-right: 2rem;
+  padding: 1vh 1vw;
+  text-decoration: none;
+  text-transform: lowercase;
 }
 
 .menu__link.activo {
-    color: #C1272D;
+  color: #c1272d;
 }
 
 .menu__link:hover {
-    background-color: #C1272D;
-    border-radius: 30px;
-    color: snow;
-    font-size: 1.3rem;
-    font-weight: bold;
-    margin-right: 2rem;
-    padding: 1vh 1vw;
-    text-decoration: none;
-    text-transform: lowercase;
-    
+  background-color: #c1272d;
+  border-radius: 30px;
+  color: snow;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-right: 2rem;
+  padding: 1vh 1vw;
+  text-decoration: none;
+  text-transform: lowercase;
 }
 
 .menu__link:active {
-    background-color: #9b2125;
-    border-radius: 30px;
-    color: white;
-    font-size: 1.3rem;
-    font-weight: bold;
-    margin-right: 2rem;
-    padding: 1vh 1vw;
-    text-decoration: none;
-    text-transform: lowercase;
+  background-color: #9b2125;
+  border-radius: 30px;
+  color: white;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-right: 2rem;
+  padding: 1vh 1vw;
+  text-decoration: none;
+  text-transform: lowercase;
 }

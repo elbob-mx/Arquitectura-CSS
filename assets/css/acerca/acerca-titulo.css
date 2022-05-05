@@ -1,19 +1,19 @@
 .acerca__titulo {
-    color: #C1272D;
-    font-family: 'Kalam', cursive;
-    font-weight: 700;
-    text-align: center;
+  color: #c1272d;
+  font-family: "Kalam", cursive;
+  font-weight: 700;
+  text-align: center;
 }
 
 @media screen and (min-width: 0) {
-    .acerca__titulo {
-        font-size: 2.5rem;
-        padding: 0.5rem 1rem;
-    }
+  .acerca__titulo {
+    font-size: 2.5rem;
+    padding: 0.5rem 1rem;
+  }
 }
 
 @media screen and (min-width: 768px) {
-    .acerca__titulo {
-        font-size: 3.1rem;
-    }
+  .acerca__titulo {
+    font-size: 3.1rem;
+  }
 }

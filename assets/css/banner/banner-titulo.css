@@ -1,26 +1,26 @@
 .banner__titulo {
-    color: snow;
-    font-family: 'Kalam', cursive;    
-    font-weight: 700;
-    left: 50%;
-    position: absolute;
-    text-align: center;
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
-    top: 55%;
-    transform: translate(-50%, -50%);
-    width: 100%;
+  color: snow;
+  font-family: "Kalam", cursive;
+  font-weight: 700;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+  top: 55%;
+  transform: translate(-50%, -50%);
+  width: 100%;
 }
 
 @media screen and (min-width: 0) {
-    .banner__titulo {
-        font-size: 3rem;
-        top: 65%;
-    }
+  .banner__titulo {
+    font-size: 3rem;
+    top: 65%;
   }
+}
 
-  @media screen and (min-width: 768px) {
-    .banner__titulo {
-        font-size: 6rem;
-        top: 60%;
-    }
+@media screen and (min-width: 768px) {
+  .banner__titulo {
+    font-size: 6rem;
+    top: 60%;
   }
+}

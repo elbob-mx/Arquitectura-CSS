@@ -6,15 +6,6 @@
     transition: 1s;
 }
 
-.persona__nombre:hover {
-    color: #C1272D;
-    font-family: "Kalam", cursive;
-    font-size: 2rem;
-    margin: 1rem 0;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
-    transition: 0.5s;
-}
-
 @media screen and (min-width: 0) {
     .persona__nombre {
         margin: 0.25rem;
@@ -22,6 +13,12 @@
 }
 
 @media screen and (min-width: 768px) {
+    .persona__nombre {
+        margin: 0.25rem;
+    }
+}
+
+@media screen and (min-width: 922px) {
     .persona__nombre {
         margin: 0.25rem;
     }

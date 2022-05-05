@@ -1,27 +1,27 @@
 .menu__lista {
-    display: flex;
+  display: flex;
 }
 
 @media screen and (min-width: 0) {
-    .menu__lista {
-        flex-direction: column;
-        justify-content: left;
-        padding: 1.2rem 1rem;
-    }
+  .menu__lista {
+    flex-direction: column;
+    justify-content: left;
+    padding: 1.2rem 1rem;
+  }
 }
 
 @media screen and (min-width: 730px) {
-    .menu__lista {
-        flex-direction: row;
-        justify-content: center;
-        padding: 1.2rem 1rem;
-    }
+  .menu__lista {
+    flex-direction: row;
+    justify-content: center;
+    padding: 1.2rem 1rem;
+  }
 }
 
 @media screen and (min-width: 768px) {
-    .menu__lista {
-        flex-direction: row;
-        justify-content: center;
-        padding: 1.2rem 1rem;
-    }
+  .menu__lista {
+    flex-direction: row;
+    justify-content: center;
+    padding: 1.2rem 1rem;
+  }
 }

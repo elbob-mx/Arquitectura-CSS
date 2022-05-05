@@ -1,26 +1,26 @@
 .persona__imagen {
-    background-color: cyan;
-    height: 261px;
-    width: 261px;    
+  background-color: cyan;
+  height: 261px;
+  width: 261px;
 }
 
 .persona__imagen--roberta {
-    background: url("../../../img/personas/roberta.jpg");
+  background: url("../../../img/personas/roberta.jpg");
 }
 
 .persona__imagen--marcela {
-    background: url("../../../img/personas/marcela.jpg");
+  background: url("../../../img/personas/marcela.jpg");
 }
 
 .persona__imagen--andrea {
-    background: url("../../../img/personas/andrea.jpg");
+  background: url("../../../img/personas/andrea.jpg");
 }
 
 .persona__imagen {
-    background: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    border-radius: 100%;
-    height: 261px;
-    width: 261px;
+  background: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 100%;
+  height: 261px;
+  width: 261px;
 }

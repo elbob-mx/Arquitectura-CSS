@@ -1,29 +1,27 @@
 .pie-pagina {
-    background-color: #83b686;
-    font-family: "Inter", sans-serif;
-    font-weight: 700;
-    margin-top: 3rem;
-    padding: 1.562rem 5rem;
-    text-align: right;
-    text-transform: lowercase;
+  background-color: #83b686;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  margin-top: 3rem;
+  padding: 1.562rem 5rem;
+  text-align: right;
+  text-transform: lowercase;
 }
 
 @media screen and (min-width: 0) {
-    .pie-pagina {
-        text-align: center;
-    }
-
+  .pie-pagina {
+    text-align: center;
+  }
 }
 
 @media screen and (min-width: 768px) {
-    .pie-pagina  {
-        text-align: right;
-    }
-
+  .pie-pagina {
+    text-align: right;
+  }
 }
 
 @media screen and (min-width: 922px) {
-    .pie-pagina  {
-        text-align: right;
-    }
+  .pie-pagina {
+    text-align: right;
+  }
 }
